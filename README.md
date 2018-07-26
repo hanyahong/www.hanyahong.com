@@ -1,8 +1,7 @@
 ---
-title: BLOG INFO
+title: blog info
 date: 2015-07-26 10:10:10
-tags:
-categories:
+
 ---
 
 > 千万之路刚开始BLOG
